@@ -1624,7 +1624,7 @@
 
 #define _PATH_PRIVSEP_CHROOT_DIR SSHDIR "/empty"
 
-#define _PATH_SSH_PROGRAM "/system/bin/ssh"
+#define _PATH_SSH_PROGRAM "/product/bin/ssh"
 
 /* Utilize some of the LibreSSL compatibility layer */
 #define HAVE_DH_GET0_KEY 1
